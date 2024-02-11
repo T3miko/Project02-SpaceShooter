@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - magic
+  - obstacles
   layers:
   - Default
   - TransparentFX
